@@ -5,8 +5,8 @@ If not testing in cloud, change source in scripts to corresponding file location
 
 To predict all games of the day use predict_today function.
 To use predict_today function first source the R file then enter predict_today(date).
-Example: predict_today('Tue, Oct 19, 2021')
-Then enter the home team spreads as prompted
+Example: predict_today('Tue, Oct 19, 2021').
+Then enter the home team spreads as prompted.
 
 To predict a single game use predict_game function.
 To use predict_game function first source the R file then enter predict_game('home team', 'away team', 'home team spread').
