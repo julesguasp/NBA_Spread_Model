@@ -10,6 +10,7 @@ Then enter the home team spreads as prompted.
 
 To predict a single game use predict_game function.
 To use predict_game function first source the R file then enter predict_game('home team', 'away team', 'home team spread').
+
 Example: predict_game('New York Knicks', 'Philadelphia 76ers', -2) (-2 referring to Knicks point spread).
 
 Enjoy!
